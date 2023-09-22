@@ -9,6 +9,7 @@ scrollingBlocks.forEach((block) => {
     block.style.transition = "transform 20s linear";
   });
 });
+//Changes amde
 
 const map = L.map("map").setView([22.572645, 88.363892], 50); // Set your latitude and longitude
 
